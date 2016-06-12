@@ -1,2 +1,2 @@
 # idea-settings
-idea-settings,include IntelliJ,WebStorm,Pycharm
+idea-settings,include IntelliJ,WebStorm,Pycharm,PHPStorm
